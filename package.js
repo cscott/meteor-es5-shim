@@ -1,7 +1,7 @@
 Package.describe({
   name: 'cscottnet:es5-shim',
   summary: 'ES5 compatibility shims, packaged for Meteor',
-  version: '4.0.5_1',
+  version: '4.4.1',
   git: 'https://github.com/cscott/meteor-es5-shim.git'
 });
 
